@@ -1,0 +1,4 @@
+# Horizon Worlds
+/generated/
+*.tsbuildinfo
+*.log
